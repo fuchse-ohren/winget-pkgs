@@ -11,7 +11,7 @@ ProductCode: Unsloth Studio (Desktop)
 ReleaseDate: 2026-09-23
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/unslothai/unsloth/releases/download/v0.1.815-beta/Unsloth-Desktop-Windows-ARM64.exe
-  InstallerSha256: 4E73FF48F1916C2EB9B28B43A2FA25F7BF12E5E1B76D98A96592AC6738BB3784
+  InstallerUrl: https://github.com/unslothai/unsloth/releases/download/v0.1.815-beta/Unsloth-Desktop-Windows.exe
+  InstallerSha256: f5886d19d403407418b3b9851b8e891e14299f37810c540faf6b7cb0a0573765
 ManifestType: installer
 ManifestVersion: 1.12.0
